@@ -1,0 +1,6 @@
+@NetCoreAuthSeed_HostAddress = http://localhost:5261
+
+GET {{NetCoreAuthSeed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
